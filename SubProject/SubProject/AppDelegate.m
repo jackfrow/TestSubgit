@@ -19,6 +19,8 @@
     
     NSLog(@"test subgit");
     
+    NSLog(@"test submodule change");
+    
 }
 
 
